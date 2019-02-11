@@ -13,3 +13,6 @@ stage의 상태를 확인하는 방법
 ------------------
 
 git kraken test
+
+php storm test
+
